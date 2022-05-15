@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+This is a work in progress, self sustained bedrock server software written in C#.
+This is going to be officially used on [SkyWarped](https://github.com/skywarped-mc) when it is stable.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Unlike other server software, this project will be 100% community driven, meaning it is meant to be as modular as possible while still sustaining its status as a server software. Unlike all of its competetitors it is not only a software, but a library as well. Meaning it has built in plugin support or it can be started as a library.
